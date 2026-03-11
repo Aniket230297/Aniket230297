@@ -62,9 +62,9 @@ Modern dashboard UI with reusable components.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: *(Add your LinkedIn link)*
-- 📧 Email: *(Add your email)*
+- 💼 LinkedIn: *(www.linkedin.com/in/aniket-kule-a7358714b)*
+- 📧 Email: *(aniketkule231997@gmail.com)*
 
 ---
 
-⭐ *If you like my projects, consider giving them a star!*
+
