@@ -2,7 +2,7 @@
 
 🚀 **Frontend Developer | React.js | JavaScript**
 
-I'm a passionate **Frontend Developer with 1.4+ years of experience** building responsive and user-friendly web applications. I enjoy transforming ideas into real products with clean and scalable code.
+I'm a passionate **Frontend Developer with 1.5+ years of experience** building responsive and user-friendly web applications. I enjoy transforming ideas into real products with clean and scalable code.
 
 ---
 
